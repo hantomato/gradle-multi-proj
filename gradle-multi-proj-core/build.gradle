@@ -1,0 +1,3 @@
+dependencies {
+    compile('org.springframework.amqp:spring-rabbit:1.7.3.RELEASE')
+}

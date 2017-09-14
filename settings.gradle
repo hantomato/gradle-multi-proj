@@ -1,0 +1,3 @@
+rootProject.name = 'gradle-multi-proj'
+include 'gradle-multi-proj-front',
+        'gradle-multi-proj-core'
